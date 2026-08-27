@@ -1,3 +1,6 @@
+
+## 👨🏾‍💻 About Him just kidding - Its me 
+
 - 👋 Hi, I’m **Ayinde Perouza** — building at the intersection of **enterprise IT, systems administration, and cybersecurity operations**.
 - 🛡️ I turn hands-on labs into documented technical case studies covering **SOC operations, Active Directory, Windows/Linux security, incident investigation, detection engineering, and cloud security**.
 - 🔬 My focus is not just completing labs — I build, break, troubleshoot, validate, document, and then improve the environment.
