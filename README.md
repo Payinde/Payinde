@@ -1,9 +1,11 @@
-* 👋 Hi, I’m Ayinde Perouza, also known as @Iyindayv.2
-* 👀 I’m focused on cybersecurity operations, enterprise IT support, systems administration, identity and access management, and cloud security
-* 🌱 I’m currently developing hands-on experience through cybersecurity labs covering Active Directory, Linux/Windows hardening, incident response, network traffic analysis, and SOC-style investigations
-* 💞️ I’m open to collaborating on security labs, detection engineering, IT automation, technical documentation, and portfolio-based cybersecurity projects
-* 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/ayinde-perouza
-
+- 👋 Hi, I’m **Ayinde Perouza** — building at the intersection of **enterprise IT, systems administration, and cybersecurity operations**.
+- 🛡️ I turn hands-on labs into documented technical case studies covering **SOC operations, Active Directory, Windows/Linux security, incident investigation, detection engineering, and cloud security**.
+- 🔬 My focus is not just completing labs — I build, break, troubleshoot, validate, document, and then improve the environment.
+- 🤖 Current interests include **SIEM engineering, security automation, AI-assisted SOC workflows, identity security, endpoint telemetry, and defensive detection**.
+- 🧰 This GitHub documents the progression: **Infrastructure → Security Monitoring → Detection → Investigation → Automation → AI-Assisted Analysis**.
+- 🤝 Open to collaborating on **cybersecurity labs, detection engineering, systems administration, security automation, and technical documentation**.
+- 🌐 **Portfolio:** https://payinde.github.io/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ayinde-perouza
 
 ## 🔐 Featured Cybersecurity Project
 
